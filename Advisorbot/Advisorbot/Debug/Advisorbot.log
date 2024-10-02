@@ -1,0 +1,10 @@
+﻿  Advisorbot.cpp
+  CSVReader.cpp
+D:\UoL\Year2\OOP\Advisorbot\Advisorbot\CSVReader.cpp(66,16): warning C4101: 'orderType': unreferenced local variable
+  LineArt.cpp
+  Main.cpp
+D:\UoL\Year2\OOP\Advisorbot\Advisorbot\Main.cpp(275,23): warning C4018: '<': signed/unsigned mismatch
+  OrderBook.cpp
+  OrderBookEntry.cpp
+  Generating Code...
+  Advisorbot.vcxproj -> D:\UoL\Year2\OOP\Advisorbot\Debug\Advisorbot.exe
